@@ -1,4 +1,2 @@
 # Hello, I'm quotheJ!
-theJです。中学生です。
-
-Pythonで思いつくままに色々作ってます。
+I'm a junior high school student. I'm developing the tools I want.
